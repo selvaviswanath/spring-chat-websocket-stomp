@@ -1,0 +1,1 @@
+a very simple chat app using spring boot with a temporary memory
